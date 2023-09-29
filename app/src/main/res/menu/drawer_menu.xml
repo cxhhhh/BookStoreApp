@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/drawer_addBook"
+        android:title="Add Book" />
+    <item
+        android:id="@+id/drawer_removeLast"
+        android:title="Remove Last" />
+    <item
+        android:id="@+id/drawer_removeAll"
+        android:title="Remove All" />
+    <item
+        android:id="@+id/drawer_close"
+        android:title="Close" />
+    <item
+        android:id="@+id/drawer_listAll"
+        android:title="List All" />
+    <item
+        android:id="@+id/drawer_removePrice"
+        android:title="Remove Price Greater than 50" />
+</menu>
